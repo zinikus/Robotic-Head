@@ -27,4 +27,4 @@
 
 MIT License
 
-**Author**: ZINIKUS
+**Author**: https://github.com/zinikus
